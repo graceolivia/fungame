@@ -1,0 +1,11 @@
+#gameCanvas {
+    border: 10px solid black;
+    background-color: rgb(15, 79, 135);
+}
+
+#sprite {
+    width: 10px;
+    height: 10px;
+    background-color: red;
+    border-radius: 50%;
+}
